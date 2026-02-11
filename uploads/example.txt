@@ -1,0 +1,1 @@
+This file is opened in write/read mode (w+).This line is appended and can be read using append/read mode (a+).

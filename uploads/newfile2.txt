@@ -1,0 +1,2 @@
+This file is created, written and can be read using exclusive create
+read/write mode (x+).
