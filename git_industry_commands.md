@@ -71,4 +71,4 @@ screenshot proof:
 
 
 screenshot proof:
-![unset screenshot](screenshorts/unset.png)
+![unset screenshot](screenshots/unset.png)
