@@ -58,6 +58,13 @@ Command:
 fit config --unset user.email
 
 
+
+
+screenshot proof:
+![unset screenshot](screenshots/unset.png)
+
+
+
 Syntax:
 fit config --unset user.email "n220630@rguktn.ac.in"
 
@@ -71,5 +78,3 @@ screenshot proof:
 ![username screenshot](screenshots/username.png)
 
 
-screenshot proof:
-![unset screenshot](screenshots/unset.png)
