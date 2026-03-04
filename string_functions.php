@@ -52,7 +52,7 @@ echo "string case comparision of $d and $c: ".strcasecmp($d,$c);
 echo "<br>";
 echo htmlspecialchars("<p>php</p>");  //converts special characters to html entities
 echo"<br>";
-echo addslashes("It's PHP");
+echo addslashes("It's PHP");  //adds backslashes before  special characters 
 echo "<br>";
 echo stripslashes("It\'s PHP");
 echo "<br>";
