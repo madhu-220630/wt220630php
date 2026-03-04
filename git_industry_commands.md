@@ -1,12 +1,74 @@
-<<<<<<< HEAD
-## git status
-**Syntax:**
-git status
-**Purpose:**
-shows current status of repository.
-**Example:**
-git status
-=======
->>>>>>> 59a57c95efde6f6ecb9e66fa63cb392d1442c348
+
+## 1.git config --user.name
+
+Command name:
+git config --user.name
+
+
+Syntax:
+git config --user.name "madhu-220630"
+
+
+Purpose:
+sets your git username globally.
+
+Example:
+git config --global user.name "madhu"
+
+## 2.git config --user.email
+
+Command name:
+git config --user.email
+
+
+Syntax:
+git config --user.email "n220630@rguktn.ac.in"
+
+Purpose:
+Sets your git email globally.
+
+Example:
+git config --user.email "lathamadhu943@gmail.com"
+
+
+## 3. git config --list
+
+Command name:
+git config --list
+
+Syntax:
+git config --list
+
+Purpose:
+Displays all Git configuration settings.
+
+## 4. git config --unset user.name
+Command name:
+git config --unset 
+
+
+Syntax:
+git config --unset user.name "madhu-220630"
+
+Purpose:
+Removes a specific configuration name.
+
+## 5.git config --unset user.email
+Command:
+fit config --unset user.email
+
+
+Syntax:
+fit config --unset user.email "n220630@rguktn.ac.in"
+
+Purpose:
+Removes a specific configuration email..
+
+
+
 screenshot proof:
 ![username screenshot](screenshots/username.png)
+
+
+screenshot proof:
+![unset screenshot](screenshorts/unset.png)
