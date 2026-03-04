@@ -64,7 +64,8 @@ fit config --unset user.email "n220630@rguktn.ac.in"
 Purpose:
 Removes a specific configuration email..
 
-
+## git config --global user.name "madhu-220630"
+## git config --global user.email "n220630@rguktn.ac.in"
 
 screenshot proof:
 ![username screenshot](screenshots/username.png)
